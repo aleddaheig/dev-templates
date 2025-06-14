@@ -1,0 +1,12 @@
+pip
+notebook
+ipykernel
+gapminder
+matplotlib
+plotly
+pandas
+scikit-learn
+seaborn
+numpy~=1.26.4
+ipykernel
+-r llama.cpp/requirements.txt
